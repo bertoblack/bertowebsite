@@ -1,0 +1,512 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section1bg{
+    width: 1518px;
+    height: 647px;
+    background-image: url(image/background9v.jpg) ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-bottom: 10px solid brown;
+}
+
+
+
+
+
+.picture{
+    margin-left: 355px;
+    margin-top: -67px;
+    margin-bottom: 1px;
+    width: 10%;
+    height: 19%;
+    border-radius: 8px;
+
+    outline-offset: 20px;
+}
+
+.picture:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.logo{
+    margin-top: -12px;
+    margin-bottom: 41px;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+    margin-left: 1000px;
+    margin-top: -140px;
+}
+nav{
+    word-spacing: 15px;
+    font-size: 60px;
+    padding: 30px;
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 28%;
+}
+nav:hover{
+    transform: scale(1.05)
+}
+
+.gal {
+    background-color: blueviolet;
+    border-radius: 8px;
+}
+.mus {
+    background-color: blueviolet;
+    border-radius: 8px;
+}   
+.mov {
+    background-color: blueviolet;
+    border-radius: 8px;
+}
+a{
+    color: yellow   ;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+body aside{
+    background: linear-gradient(45deg,blueviolet,deeppink);
+    width: 10%;
+    margin-top: -321px;
+    height: 499px;
+    padding-top: 240px;
+    
+}
+.sidebar a{
+    display: block;
+    font-size: 20px;
+    color: yellow;
+    background-color: blue;
+    margin-block: 25px;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 15px;
+    border: 4px solid gray;
+
+}
+.sidebar{
+    border: 10px solid brown;
+    position: fixed;
+    margin-left: 1347px;
+    margin-top: -433px;
+    
+}
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25;
+    color: aqua;
+    text-align: center;
+    padding-top: 28px;
+}
+
+.pasikat{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25;
+    color: yellow;
+    text-align: center;
+}
+#section-1{
+    scroll-margin: 100rem;
+}
+.about {
+    margin-top: 22px;
+    margin-bottom: 200px;
+    margin-left: 600px;
+    color: green;
+    font-size: 50px;
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 10px;
+    scroll-margin: 100rem;
+    border: 2px solid gray;
+    padding: 2px;
+    text-transform: uppercase;
+}
+.p1{
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 28px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin-left: 54px;
+    margin-right: 254px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: -99px;
+    margin-bottom: 50px;
+}
+.p1{
+    text-indent: 50px;
+}
+.fam{
+    color: green;
+    font-size: 60px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 41%;
+    margin-top: 3%;
+    border-radius: 10px;
+    scroll-margin: 3rem;
+    text-transform: uppercase;
+    
+    
+}
+.frds{
+    color: green;
+    font-size: 60px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin-top: 42px;
+    margin-left: 610px;
+    border-radius: 20px;
+    padding: 2px;
+    border: 2px solid brown;
+    text-transform: uppercase; 
+}
+.section2bg{
+    width: 1518px;
+    height: 758px;
+    background-image: url(image/background10v.jpg) ;
+    background-size: cover ;
+    border-bottom: 10px solid brown;
+}
+.section3bg{
+    width: 1518px;
+    height: 758px;
+    background-image: url(image/background7v.jpg) ;
+    background-size: cover ;
+    border-bottom: 10px solid brown;
+}
+
+
+
+
+
+
+
+
+
+.mama{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    margin-left: 200px;
+    margin-top: 65px;
+    border: 3px solid gray;
+    background-color: blue;
+    float: left;
+
+    outline-offset: 20px;
+}
+.sister{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    float: left;
+    margin-left: -121px;
+    margin-top: 113px;
+    border: 3px solid gray;
+
+    outline-offset: 20px;
+}
+.sister1{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    float: left;
+    margin-left: -125px;
+    margin-top: 103px;
+    border: 3px solid gray;
+
+    outline-offset: 20px;
+}
+.uyab{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    margin-right: 579px;
+    margin-top: -263px;
+    float: right;
+    border: 3px solid gray;
+
+    outline-offset: 20px;
+}
+
+.mama:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.sister:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.sister1:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.uyab:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3{
+    color: brown;
+    background-color: blue;
+    display: inline-block;
+    margin-left: 140px;
+    margin-top: 31px;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 4px;
+}
+.p2{
+    color: green;
+    display: inline-block;
+    background-color: yellow;
+    font-size: 25px;
+    margin-top: 66px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.p3{
+    color: green;
+    display: inline-block;
+    background-color: yellow;
+    font-size: 25px;
+    margin-top: 84px;
+    margin-left: 22px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.p4{
+    color: green;
+    display: inline-block;
+    background-color: yellow;
+    font-size: 25px;
+    margin-top: 158px;
+    margin-left: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.p5{
+    color: green;
+    background-color: yellow;
+    font-size: 25px;
+    margin-top: -219px;
+    margin-right: 410px;
+    border-radius: 10px;
+    float: right;
+}
+.girl{
+    color: brown;
+    background-color: blue;
+    margin-right: 381px;
+    margin-top: -312px;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 4px;
+    float: right;
+}
+.mechp{
+    display: inline-block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-right: 568px;
+    margin-top: -30px;
+    float: right;
+}
+.davep{
+    display: inline-block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-left: 178px;
+}
+.gharp{
+    display: inline-block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-left: 195px;
+}
+.julvertp{
+    display: inline-block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-right: 884px;
+    margin-top: -105px;
+    float: right;
+}
+.kenp{
+    display: inline-block;
+    background-color: brown;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-right: 568px;
+    margin-top: -205px;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dave{
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 168px;
+    margin-top: 80px;
+
+    outline-offset: 20px;
+}
+
+.ghar{
+    height: 140px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 168px;
+    margin-top: 20px;
+
+    outline-offset: 20px;
+}
+
+.julvert{
+    height: 140px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 150px;
+    margin-right: 867px;
+    margin-top: -252px;
+    float: right;
+
+    outline-offset: 20px;
+}
+
+.ken{
+    height: 158px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 150px;
+    margin-right: 586px;
+    margin-top: -369px;
+    float: right;
+
+    outline-offset: 20px;
+}
+
+.mech{
+    height: 158px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 150px;
+    margin-right: 586px;
+    margin-top: -156px;
+    float: right;
+
+    outline-offset: 20px;
+}
+
+.dave:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.ghar:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.julvert:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.ken:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+.mech:hover{
+    outline: 15px solid #14addc;
+    transform: scale(1.05) translateY(-20px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: block;
+    color: green;
+    text-align: center;
+    background-color: wheat;
+    
+}
